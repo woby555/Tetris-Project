@@ -9,4 +9,4 @@ This project was created as a way to practice my current programming skills and 
 Thank you so much for viewing, and also bear in mind that this is my first upload to anything related to github, so if anything seems out of line, let me know.
 <br>
 <br>
-- Jake
+-Jake
