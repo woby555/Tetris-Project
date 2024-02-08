@@ -9,4 +9,9 @@ This project was created as a way to practice my current programming skills and 
 Thank you so much for viewing, and also bear in mind that this is my first upload to anything related to github, so if anything seems out of line, let me know.
 <br>
 <br>
--Jake
+<p>-Jake</p>
+<br>
+<br>
+
+![gameplay](https://github.com/woby555/Tetris-Project/assets/129340250/e5ea7750-4bec-422c-9b09-3a2bead40895)
+
